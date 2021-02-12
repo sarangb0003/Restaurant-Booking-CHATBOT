@@ -1,0 +1,25 @@
+{
+  "responseId": "9403bad0-3b00-4dca-bbf2-421a451d5a0f-db50c7cf",
+  "queryResult": {
+    "queryText": "Hi",
+    "action": "input.welcome",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "“Hello! My name is Sarang and I am the virtual assistant of SPAGO Restaurant. Would you like to book a table or learn more about our restaurant beforehand?”",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "“Hello! My name is Sarang and I am the virtual assistant of SPAGO Restaurant. Would you like to book a table or learn more about our restaurant beforehand?”"
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/restaurantbotdemo-pgkq/agent/intents/cf5d49e8-52ed-41c0-8e52-4407336b305a",
+      "displayName": "Default Welcome Intent"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
