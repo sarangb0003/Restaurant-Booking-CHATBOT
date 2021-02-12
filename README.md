@@ -1,6 +1,6 @@
 # Restaurant-Booking-CHATBOT
 
-Restaurant Booking CHATBOT does the bookings of the customer. Also gives the overall information of the restaurant.
+Created a Restaurant Booking CHATBOT which makes the bookings of the customer. Also gives the overall information of the restaurant.
 Small talks are included for the common questions like "How are you ?"
 
 It only accepts VALID information for the following parameters:
