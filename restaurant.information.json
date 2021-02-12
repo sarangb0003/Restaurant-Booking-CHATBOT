@@ -1,0 +1,44 @@
+{
+  "responseId": "383619dc-1688-470a-83ed-c325170f7fd8-db50c7cf",
+  "queryResult": {
+    "queryText": "Learn More about Restaurant",
+    "parameters": {
+      "unit-information": ""
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "SPAGO Restaurant's mission is to give our customers a place to celebrate life’s special moments by offering the best food, service, and ambiance. Please visit & Enjoy your day !",
+    "fulfillmentMessages": [
+      {
+        "quickReplies": {
+          "title": "Learn more about Restaurant"
+        },
+        "platform": "TELEGRAM"
+      },
+      {
+        "text": {
+          "text": [
+            "SPAGO Restaurant's mission is to give our customers a place to celebrate life’s special moments by offering the best food, service, and ambiance. Please visit & Enjoy your day !"
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/restaurantbotdemo-pgkq/agent/sessions/81de2c2f-f6b5-bd99-52fe-d4707829e933/contexts/__system_counters__",
+        "lifespanCount": 1,
+        "parameters": {
+          "unit-information": "",
+          "no-input": 0,
+          "unit-information.original": "",
+          "no-match": 0
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/restaurantbotdemo-pgkq/agent/intents/45c58e59-56d9-45bd-ac06-4f45be28b8c0",
+      "displayName": "restaurant.information"
+    },
+    "intentDetectionConfidence": 0.8108957,
+    "languageCode": "en"
+  }
+}
