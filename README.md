@@ -1,9 +1,10 @@
 # Restaurant-Booking-CHATBOT
 
 <p align="center">
-  <img src="Images/Booking 1.jpg" width="256" height="455">
-  <img src="Images/Booking 2.jpg" width="256" height="455">
-  <img src="Images/validation.jpg" width="256" height="455">
+  <img src="Images/Booking 1.jpg" width="250" height="440">
+  <img src="Images/Booking 2.jpg" width="250" height="440">
+  <img src="Images/validation.jpg" width="250" height="440">
+  <img src="Images/Record_2021-02-12-15-49-47.gif" width="250" height="440">
 </p>
 
 
