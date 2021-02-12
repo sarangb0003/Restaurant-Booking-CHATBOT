@@ -1,0 +1,36 @@
+{
+  "responseId": "ef612eba-7873-494d-9ea5-a2eeb2abf8f2-db50c7cf",
+  "queryResult": {
+    "queryText": "let",
+    "action": "input.unknown",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Can you say that again?",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Can you say that again?"
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/restaurantbotdemo-pgkq/agent/sessions/81de2c2f-f6b5-bd99-52fe-d4707829e933/contexts/__system_counters__",
+        "lifespanCount": 1,
+        "parameters": {
+          "no-input": 0,
+          "no-match": 1
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/restaurantbotdemo-pgkq/agent/intents/56930070-c2ca-4821-87ba-1a1b0c3dadf6",
+      "displayName": "Default Fallback Intent",
+      "isFallback": true
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
