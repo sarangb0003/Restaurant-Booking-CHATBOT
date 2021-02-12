@@ -1,0 +1,81 @@
+{
+  "responseId": "82f5c506-6049-42ad-b271-feb4b7c64bcd-db50c7cf",
+  "queryResult": {
+    "queryText": "booking",
+    "parameters": {
+      "date": "",
+      "time": "",
+      "guests": ""
+    },
+    "fulfillmentText": "For how many guests ?",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "For how many guests ?"
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/restaurantbotdemo-pgkq/agent/sessions/81de2c2f-f6b5-bd99-52fe-d4707829e933/contexts/bf38c680-13f6-4eab-9aae-7440375f3769_id_dialog_context",
+        "lifespanCount": 2,
+        "parameters": {
+          "guests": "",
+          "time.original": "",
+          "date": "",
+          "date.original": "",
+          "guests.original": "",
+          "time": ""
+        }
+      },
+      {
+        "name": "projects/restaurantbotdemo-pgkq/agent/sessions/81de2c2f-f6b5-bd99-52fe-d4707829e933/contexts/restaurant_booking_create_dialog_context",
+        "lifespanCount": 2,
+        "parameters": {
+          "time.original": "",
+          "date": "",
+          "time": "",
+          "date.original": "",
+          "guests.original": "",
+          "guests": ""
+        }
+      },
+      {
+        "name": "projects/restaurantbotdemo-pgkq/agent/sessions/81de2c2f-f6b5-bd99-52fe-d4707829e933/contexts/restaurant_booking_create_dialog_params_guests",
+        "lifespanCount": 1,
+        "parameters": {
+          "time.original": "",
+          "date.original": "",
+          "date": "",
+          "time": "",
+          "guests.original": "",
+          "guests": ""
+        }
+      },
+      {
+        "name": "projects/restaurantbotdemo-pgkq/agent/sessions/81de2c2f-f6b5-bd99-52fe-d4707829e933/contexts/__system_counters__",
+        "lifespanCount": 1,
+        "parameters": {
+          "time.original": "",
+          "unit-information.original": "",
+          "date.original": "",
+          "guests": "",
+          "date": "",
+          "time": "",
+          "guests.original": "",
+          "no-match": 0,
+          "no-input": 0,
+          "unit-information": ""
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/restaurantbotdemo-pgkq/agent/intents/bf38c680-13f6-4eab-9aae-7440375f3769",
+      "displayName": "restaurant.booking.create"
+    },
+    "intentDetectionConfidence": 0.44330844,
+    "languageCode": "en"
+  }
+}
