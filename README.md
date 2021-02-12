@@ -1,6 +1,6 @@
 # Restaurant-Booking-CHATBOT
 
-<p align="center">
+<p align="left">
   <img src="Images/Record_2021-02-12-15-49-47.gif" width="250" height="440">
   <img src="Images/validation.jpg" width="250" height="440">
 </p>
